@@ -1,4 +1,4 @@
-# cicd-final-project
+# ci-cd-final-project
 
 **Project name:** CI/CD Final Project
 
